@@ -1,1 +1,1 @@
-# casheer-app
+# cashier-app
