@@ -1,7 +1,7 @@
 {
-  "name": "casheer-app",
+  "name": "cashier-app",
   "version": "0.1.0",
-  "description": "Project Casheer Apps",
+  "description": "Project Cashier Apps",
   "author": "Team",
   "main": "public/electron.js",
   "build": {
